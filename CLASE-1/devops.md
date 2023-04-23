@@ -30,7 +30,7 @@ Las prácticas de DevOps, como la integración continua y la entrega continua, p
 
 La integración continua es una práctica de desarrollo de software ágil donde los cambios de código se introducen y se combinan en un repositorio común, verificando la consistencia de esa integración mediante pruebas automatizadas para detectar cualquier tipo de error en la aplicación.
 
-Por otro lado, el despliegue continuo va un paso más allá, encargándose del despliegue del nuevo código así como del aprovisionamiento de cualquier infraestructura necesaria, todo de forma automatizada para hacer el proceso seguro, pudiendo incluso integrar una política de rollbackautomático si algo no va según lo previsto.
+Por otro lado, el despliegue continuo va un paso más allá, encargándose del despliegue del nuevo código así como del aprovisionamiento de cualquier infraestructura necesaria, todo de forma automatizada para hacer el proceso seguro, pudiendo incluso integrar una política de rollback automático si algo no va según lo previsto.
 
 En resumen, el CI/CD permite a los equipos de DevOps validar y entregar con frecuencia aplicaciones al usuario final mediante la automatización durante el ciclo de vida de la aplicación, desde el desarrollo hasta el despliegue en producción. Entre las herramientas más comunes para CI, CD o ambas, se encuentran Jenkins o Spinnaker, así como las soluciones propias de las plataformas de control de versiones como Github actions o Bitbucket pipelines, por poner algunos ejemplos.
 
